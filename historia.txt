@@ -1,2 +1,3 @@
-historia.txt
+Habia olvidado poner contenido en este archivo
 
+esto es lo que irá dentro del primer commit >:D
